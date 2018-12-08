@@ -1,5 +1,5 @@
 locals {
-  
+  unique_id = "prashant"
 }
 
 resource "aws_ecs_cluster" "ecs-cluster" {
