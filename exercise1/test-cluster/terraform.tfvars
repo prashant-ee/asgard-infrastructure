@@ -1,1 +1,1 @@
-cluster_name= "${unique}-ecs-cluster"
+cluster_name= "prashant-ecs-cluster"
